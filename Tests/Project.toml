@@ -1,0 +1,13 @@
+name = "Tests"
+uuid = "1063dca2-c39b-4269-b3f4-f62ba2e27fa5"
+authors = ["Sam Anklesaria <sam@spacemaker.ai>"]
+version = "0.1.0"
+
+[deps]
+DiffResults = "163ba53b-c6d8-5494-b064-1a9d43ac40c5"
+Flatten = "4c728ea3-d9ee-5c9a-9642-b6f7d7dc04fa"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+Oliver = "94dab5e9-b6b8-4ea3-8f5e-bb674ebacf0d"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+ReTester = "8971cb22-902f-4395-a069-00373ce2268d"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

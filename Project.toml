@@ -1,0 +1,17 @@
+name = "Oliver"
+uuid = "94dab5e9-b6b8-4ea3-8f5e-bb674ebacf0d"
+authors = ["Sam Anklesaria <sam@spacemaker.ai>"]
+version = "0.1.0"
+
+[deps]
+ConstructionBase = "187b0558-2788-49d3-abe0-74a17ed4e7c9"
+Debugger = "31a5f54b-26ea-5ae9-a837-f05ce5417438"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+JuliaInterpreter = "aa1ae85d-cabe-5617-a682-6adf51b2e16a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LinearMapDuals = "6478e562-99fc-45c1-87fa-df5855871ddc"
+LinearMaps = "7a12625a-238d-50fd-b39a-03d52299707e"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+ToeplitzMatrices = "c751599d-da0a-543b-9d20-d0a503d91d24"
